@@ -88,9 +88,9 @@ Note the `utf-8-sig` encoding — the file starts with a BOM.
   with a different salary grade and class ID (e.g. `Administrative Officer I` at
   SG 10 / `ADOF1` and SG 11 / `ADO1`). `Class ID` is the unique key, not
   `Occupation`.
-- **One known bad value.** `Youth Development Assistant I` (`07-SS`, class `YDA1`)
-  carries salary grade `58`, outside the valid 1–33 range. Extraction artifact;
-  left as-is rather than silently guessed. Verify against the PDF before use.
+- **One correction applied.** `Youth Development Assistant I` (`07-SS`, class
+  `YDA1`) was extracted as salary grade `58`; corrected to `5` to match the
+  circular. All other values are as extracted.
 - **Snapshot, not a live feed.** CY 2022 edition. DBM issues later circulars and
   salary grades are periodically adjusted (e.g. by Salary Standardization Law
   tranches) — the salary grade *assignments* here may still hold while the peso
