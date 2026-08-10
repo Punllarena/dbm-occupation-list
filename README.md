@@ -45,25 +45,25 @@ service — consult the DBM PDF for the exact official titles.
 | Code | Gloss | Rows |
 |---|---|---|
 | 01-GA | General administration | 188 |
-| 02-FS | Finance | 206 |
-| 03-PS | Planning and statistics | 105 |
-| 04-AE | Architecture and engineering | 71 |
-| 05-TC | Transportation and communications | 174 |
-| 06-CT | Crafts and trades | 179 |
-| 07-SS | Social services | 226 |
-| 08-IA | Information and arts | 167 |
+| 02-FS | Financial | 206 |
+| 03-PS | Planning  | 105 |
+| 04-AE | Architecture and Engineering | 71 |
+| 05-TC | Transportation Communication and Public Utilities| 174 |
+| 06-CT | Crafts, Trades, and Related | 179 |
+| 07-SS | Social Science and Welfare | 226 |
+| 08-IA | Information, Art and Recreation| 167 |
 | 09-MH | Medical and health | 186 |
-| 10-EL | Education and library | 237 |
-| 11-AA | Agriculture and agrarian reform | 127 |
-| 12-TT | Trade and tourism | 78 |
-| 13-MP | Sciences and meteorology | 119 |
+| 10-EL | Education library, museum, and archival | 237 |
+| 11-AA | Agrarian, agricultural, and environmental | 127 |
+| 12-TT | Trade and tourism industry| 78 |
+| 13-MP | Mathematics, physical, and Biological Sciences Service | 119 |
 | 14-DS | Defense and security | 167 |
 | 15-LJ | Legal and judicial | 132 |
 | 16-FR | Foreign relations | 31 |
 | 17-MS | Miscellaneous services | 53 |
 | 18-ES | Executive service | 120 |
 | 19-LS | Legislative service | 4 |
-| 20-CM | Corporate management | 5 |
+| 20-CM | Corporate Governance | 5 |
 
 ## Usage
 
